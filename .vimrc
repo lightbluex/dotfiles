@@ -1,5 +1,5 @@
-#private setting for vim (simple version)
-#https://github.com/lightbluex ericxia7@gmail.com
+"private setting for vim (simple version)
+"https://github.com/lightbluex ericxia7@gmail.com
 
 "Set color theme
 colorscheme desert
